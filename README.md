@@ -1,3 +1,3 @@
-# anastuhec.github.io
+# Ana Štuhec
 
 hello
