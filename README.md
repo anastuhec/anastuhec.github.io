@@ -1,3 +1,3 @@
 # Ana Štuhec
 
-hello
+Ta stran je namenjena tutorstvu pri Matematiki 1.
